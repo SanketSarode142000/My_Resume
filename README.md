@@ -1,3 +1,4 @@
+Sanket Bharatrao Sarode 
 About Me
 I am a skilled Software Development Engineer in Test (SDET) with a strong background in manual and automation testing. Proficient in using tools and frameworks like Cypress, Selenium, and the Page Object Model (POM), I specialize in delivering high-quality software solutions. Additionally, my expertise in Java and JavaScript enables me to implement efficient and robust testing strategies.
 

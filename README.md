@@ -1,0 +1,1 @@
+A skilled SDET with expertise in manual and automation testing using Selenium, proficient in Java and JavaScript. My resume highlights hands-on experience in end-to-end testing, POM, ensuring high-quality software delivery. Explore my work to see how I bring technical excellence and attention to detail to every project.
